@@ -7,6 +7,7 @@
 - JUnit (for tests)
 
 <h4> Purpose: </h4>
+
 Crawls ![trending github repositories](https://github.com/trending?since=weekly%5D)
 and retrieves data into a csv file
 
