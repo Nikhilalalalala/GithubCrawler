@@ -2,7 +2,7 @@
 
 <h4> Technologies Used: </h4>
 
-- Java
+- Java 11
 - Selenium
 - JUnit (for tests)
 
