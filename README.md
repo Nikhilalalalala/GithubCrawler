@@ -13,7 +13,7 @@ and retrieves data into a csv file
 
 <h4>How to run this code? </h4>
 
-1. Set up this project as a Maven project in your favourite code editor
+1. Set up this project as a Maven project in your favourite IDE/code editor
 2. Install [Chrome Driver](https://chromedriver.chromium.org/downloads)
 3. Replace the path in Main.java with your file path to the chrome driver that you installed above. 
 
